@@ -17,5 +17,11 @@
 
 1. Оригинальное изображение
 
+![image](https://github.com/moodestroyer/3lab_opencv/assets/82328325/9bcbffcf-ae4b-451a-a33d-a87e1c90950f)
+
+2. Изображение с обведёнными текстом
+
+![image](https://github.com/moodestroyer/3lab_opencv/assets/82328325/f60b991b-ebca-4b8d-a8e0-d33402751b72)
+
 
 
